@@ -1,2 +1,4 @@
 # Anagrams
-Anagrams is a class that uses recursive backtracking to efficienlty find all anagrams from a dictionary of words of a given word or phrase.
+Anagrams is a class that uses recursive backtracking to efficienlty find all anagrams from a dictionary of words of a given word or phrase. To test the AnagramSolver class, save the two txt files, and run the AnagramMain class in an IDE while both java files are in the same folder. When prompted, type in either txt file name, including the .txt file extension. Next you'll be promted to give a phrase you'd like to make anagrams out of. Finally, you'll be asked the max number of words to include in each anagram, and if you don't want any limit type 0. Then the AnagramMain class uses a AnagramSolver object to create and print all the anagrams that can be made from the phrase you provided, out of words from the txt file previously given.
+
+(NOTE: AnagramMain, dict1.txt, and dict2.txt were not created by me and are simply provided as tools for you to test my program.)
